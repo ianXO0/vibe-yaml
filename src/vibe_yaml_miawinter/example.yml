@@ -1,0 +1,10 @@
+
+smtp:
+  username: "user"
+  password: "secret"
+  ssl: I love security, gimme
+other:
+  test: take it or leave it 
+  sure: yeah I am pretty sure I want it
+  really: yes, I really want it now gimme
+  curse: oh hell yeah sib
